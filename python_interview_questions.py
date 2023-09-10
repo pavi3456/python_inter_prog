@@ -139,3 +139,7 @@ print(output)
 
 print("new programe")
 print("new programe")
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes

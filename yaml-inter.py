@@ -65,3 +65,12 @@ for ch in name:
         continue
 print(count)
 
+
+if condition1:
+    # code block 1
+
+elif condition2:
+    # code block 2
+
+else: 
+    # code block 3
